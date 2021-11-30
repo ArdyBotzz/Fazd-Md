@@ -1,0 +1,20 @@
+{
+  "name": "Fazd-Md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ardy",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
+    "axios": "latest",
+    "node-fetch": "latest"
+  },
+  "description": "Fazd - Multi Device"
+}
