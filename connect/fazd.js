@@ -22,6 +22,7 @@ const fs = require("fs")
 const moment = require("moment-timezone")
 const { color } = require("../lib/color")
 const { exec } = require("child_process")
+const { getBuffer, fetchJson, fetchText, getRandom, getGroupAdmins, runtime, sleep } = require("../lib/myfunc");
 sph = "き⃟🌹"
 fake = "Fazd-bot created by Ardy"
 
