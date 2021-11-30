@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://telegra.ph/file/a264e9f196af02c432417.jpg" alt="XFazd-Team" width="300" />
-</div>
-
+<a href="https://github.com/XFazd-team/"><img src="https://cardivo.vercel.app/api?name=Depin Kun&description=Hello Everyone, This Project is a Multi-Device Base Baileys Founded by All XFazd-Team Members&image=https://telegra.ph/file/a264e9f196af02c432417.jpg&usqp=CAU&backgroundColor=%23ecf0f1&github=XFazd-team&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
 # XFazd Multi-Device
 
 <p align="center">
