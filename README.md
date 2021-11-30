@@ -36,6 +36,6 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
 # Thanks to
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a>
-[Adiwajshing](https://github.com/adiwajshing)
-Developer of Baileys
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> |
+[Adiwajshing](https://github.com/adiwajshing) |
+Developer of Baileys |
