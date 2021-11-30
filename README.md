@@ -34,3 +34,8 @@
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/ffmpeg-n4.4.1-2-gcc33e73618-win64-gpl-4.4.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
+
+# Thanks to
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a>
+[Adiwajshing](https://github.com/adiwajshing)
+Developer of Baileys
