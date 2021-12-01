@@ -9,24 +9,24 @@
 ```bash
 > $ pkg install nodejs git ffmpeg libwebp
 
-> $ git clone https://github.com/XFazd-team/Fazd-Md/
+> $ git clone https://github.com/XFazd-team/Fazd-Md
 
-> $ cd XFazd-bot
+> $ cd Fazd-Md
 
 > $ npm i
 
-> $ node main.js
+> $ node index.js
 ```
 
 ## Windows/Rdp/Vps Install
 ```bash
-> $ git clone https://github.com/XFazd-team/Fazd-Md/
+> $ git clone https://github.com/XFazd-team/Fazd-Md
 
-> $ cd XFazd-bot
+> $ cd Fazd-Md
 
 > $ npm i
 
-> $ node main.js
+> $ node index.js
 ```
 
 # INSTALL
