@@ -14,7 +14,8 @@
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
     "axios": "latest",
-    "node-fetch": "latest"
+    "node-fetch": "latest",
+    "chalk": "latest"
   },
   "description": "Fazd - Multi Device"
 }
