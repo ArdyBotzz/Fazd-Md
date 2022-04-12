@@ -6,8 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Ardy",
-  "license": "ISC",
+  "author": "Fazd Team",
+  "license": "MIT",
   "devDependencies": {
     "node": "^16.13.0"
   },
