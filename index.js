@@ -4,7 +4,7 @@ DisconnectReason,
 AnyMessageContent, 
 delay, 
 useSingleFileAuthState 
-} = require('@adiwajshing/baileys-md')
+} = require('@adiwajshing/baileys')
 const P = require("pino")
 const { color, FazdLog } = require("./lib/color")
 const { Boom } = require("@hapi/boom")
