@@ -17,7 +17,7 @@ const {
 	downloadContentFromMessage,
 	generateWAMessage,
 	generateWAMessageFromContent
-} = require('@adiwajshing/baileys-md')
+} = require('@adiwajshing/baileys')
 const fs = require("fs")
 const moment = require("moment-timezone")
 const { color } = require("../lib/color")
