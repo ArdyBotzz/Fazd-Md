@@ -13,7 +13,7 @@
 
 > $ cd Fazd-Md
 
-> $ npm i
+> $ yarn
 
 > $ node index.js
 ```
@@ -24,7 +24,7 @@
 
 > $ cd Fazd-Md
 
-> $ npm i
+> $ yarn
 
 > $ node index.js
 ```
